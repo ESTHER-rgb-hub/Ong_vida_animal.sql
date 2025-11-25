@@ -17,3 +17,6 @@ Este repositório contém os scripts SQL para criação, inserção, consulta, a
 1. Crie o banco de dados:
    ```sql
    CREATE DATABASE vida_animal;
+   
+👩‍💻 Autoria
+Projeto desenvolvido por Esther Costa – Experiência Prática 4.
